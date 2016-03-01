@@ -10,9 +10,24 @@ p{
 .soft{color: #a8a8a8}
 
 .center {text-align: center;}
-/*
-.container{//margin:0 auto;}
 
+
+
+
+.container{
+	margin:0 auto;
+	background-color:white;
+	height:100vh;
+}
+
+body{
+	background-color: gray;
+}
+
+.footer{
+	height:100px;
+}
+/*
 .header{
 	background-color:#;
 	height: 300px;
