@@ -27,6 +27,14 @@ body{
 .footer{
 	height:100px;
 }
+
+#footer{
+	position: absolute;
+    bottom: 0;
+    width: 100vh;
+	
+}
+
 /*
 .header{
 	background-color:#;
